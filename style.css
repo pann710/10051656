@@ -2,3 +2,11 @@ body{background-color:red;}
 
 p{color:blue;}
 h1{color:yellow;}
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
